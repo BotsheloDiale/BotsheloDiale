@@ -7,6 +7,8 @@
 🔹 Exploring AI Agents  
 🔹 Open to **collaborations** and **new opportunities**  
 
+With expertise in front-end and back-end development, databases, and cloud technologies, I've contributed to various projects, including internal engagement tools, identity provider migrations, and web application customizations. I'm always eager to explore new technologies and improve processes.
+
 ---
 
 ### 🛠️ **Tech Stack**  
