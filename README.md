@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Botshelo  
 
 🚀 **Developer | Full-Stack Engineer | Open Source Enthusiast**  
 
@@ -53,7 +53,7 @@
 ---
 
 ### 📫 **Connect With Me**  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/botshelo/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)] coming soon 
 
 ---
