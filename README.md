@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Botshelo  
+# 👋 Hi, I'm [Botshelo](https://botshelodiale.github.io/)  
 
 🚀 **Developer | Full-Stack Engineer | Open Source Enthusiast**  
 
@@ -7,7 +7,7 @@
 🔹 Exploring AI Agents  
 🔹 Open to **collaborations** and **new opportunities**  
 
-With expertise in front-end and back-end development, databases, and cloud technologies, I've contributed to various projects, including internal engagement tools, identity provider migrations, and web application customizations. I'm always eager to explore new technologies and improve processes.
+With expertise in front-end and back-end development, databases, and cloud technologies, I've contributed to various projects, including internal engagement tools, identity provider migrations, and web application customizations. I'm always eager to explore new technologies, improve processes and identify meaningful AI adoption opportunities.
 
 ---
 
